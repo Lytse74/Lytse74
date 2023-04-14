@@ -3,6 +3,7 @@
 ## CS Skills:
 ### Programming Languages
 [![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus)](https://www.stroustrup.com/)
+[![ACCELL/SQL](https://img.shields.io/badge/accell\/sql-yellow?style=for-the-badge&logo=accellsql)](https://www.opentext.co.uk/products-and-solutions/products/specialty-technologies/opentext-gupta-development-tools-databases/opentext-gupta-accell-and-vision)
 
 ### Databases
 [![Oracle](https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=oracle)](https://www.oracle.com/)

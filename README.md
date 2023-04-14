@@ -4,7 +4,11 @@
 ### Programming Languages
 [![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus)](https://www.stroustrup.com/)
 [![ACCELL/SQL](https://img.shields.io/badge/accell\/sql-yellow?style=for-the-badge&logo=accellsql)](https://www.opentext.co.uk/products-and-solutions/products/specialty-technologies/opentext-gupta-development-tools-databases/opentext-gupta-accell-and-vision)
-[![C](https://img.shields.io/badge/c-a8b9cc?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+[![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+
+### Data Management
+[![Informatica](https://img.shields.io/badge/informatica-ff4d00?style=for-the-badge&logo=informatica&logoColor=white)](https://www.informatica.com/nl/resources/articles/what-is-etl.html)
+
 
 ### Databases
 [![Oracle](https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=oracle)](https://www.oracle.com/)

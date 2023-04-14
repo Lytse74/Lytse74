@@ -1,4 +1,4 @@
-### Hi there 👋, my nick is Lytse.
+### Hi there 👋, my nickname is Lytse.
 
 ## CS Skills:
 ### Programming Languages

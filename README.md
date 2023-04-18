@@ -26,6 +26,8 @@
 [![Visual Studio Code](https://img.shields.io/badge/visualstudiocode-007acc?style=for-the-badge&logo=visualstudiocode)](https://www.visualstudio.com)
 [![Vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim)](https://www.vim.org)
 
+### Other
+[![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
 
 
 <!--
